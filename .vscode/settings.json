@@ -1,5 +1,8 @@
 {
   "editor.stickyScroll.enabled": false,
   "git.postCommitCommand": "sync",
-  "git.autorefresh": true
+  "git.autorefresh": true,
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
