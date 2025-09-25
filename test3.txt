@@ -1,0 +1,12 @@
+2
+
+
+  "postCreateCommand": [
+    "sudo apt-get update",
+    "sudo apt-get install -y astyle",
+    "echo \"alias format='astyle -F *.cpp'\" >> ~/.bashrc"
+  ],
+
+  "postCreateCommand": [
+    "sudo apt-get update"
+  ],

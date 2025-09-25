@@ -1,0 +1,5 @@
+{
+  "editor.stickyScroll.enabled": false,
+  "git.postCommitCommand": "sync",
+  "git.autorefresh": true
+}
